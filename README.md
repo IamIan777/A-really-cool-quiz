@@ -20,4 +20,4 @@ Highscore function and list
 
 ### link
 
-[label](assets/Code%20Quiz.webm)
+![Alt text](assets/Code%20Quiz.gif)
